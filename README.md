@@ -22,3 +22,5 @@ first take out mask by using mask-rcnn module and passing content image to the m
     color preservation technique is used to preserve colour of the content image and applying that colour scheme to the generated image , we have used image histogram matching approach to match the color pattern of content image with genralizeed image
 
 # GUI DESIGN
+ 
+ https://github.com/ravindra1307/neural-style-transfer/blob/master/output%20images/GUI.PNG
