@@ -3,8 +3,7 @@ neural style transfer
 
 ## INSTRUCTIONS
 if using google colab first import nst_utils
-first take out mask by using mask-rcnn module and passing content image to the module which will return mask image.
-
+first take out mask by using mask-rcnn module and passing content image to the module which will return mask image.https://www.dropbox.com/s/5pzxmero2rbvmv3/frozen_inference_graph.pb?dl=0
 # NEURAL STYLE TRANSFER - VOID HACK()- BY ML CHAMPS (11)
   
   
